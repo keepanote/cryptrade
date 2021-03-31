@@ -26,9 +26,9 @@
   "dependencies": {
     "attempt": "~1.0.0",
     "commander": "~2.0.0",
-    "underscore": "~1.5.2",
+    "underscore": "~1.12.1",
     "fibers": "~1.0.1",
-    "cson": "~1.4.4",
+    "cson": "~2.0.0",
     "socket.io-client": "~0.9.16",
     "winston": "~0.7.2",
     "mtgox-apiv2": "~1.0.6",
